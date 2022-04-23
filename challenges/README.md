@@ -4,7 +4,7 @@ Within this folder are challenges allowing students to practice running Linux co
 | Challenge | Link |
 | :-------: | :----: |
 | Can You Keep My Secret? | [Link](./can-you-keep-my-secret/challenge.md) |
-| Nice Netcat | [Link](./nice-netcat/challenge.md |
+| Nice Netcat | [Link](./nice-netcat/challenge.md) |
 | Obedient Cat | [Link](./obedient-cat/challenge.md) |
 | Strings Cheese | [Link](./strings-cheese/challenge.md) |
 | Tab, Tab, Attack | [Link](./tab-tab-attack/challenge.md) |
