@@ -9,5 +9,5 @@ Repository for "What the Heck is Linux?" class taught at [Splash @ UCLA 2022](ht
  - Resources
 
 ## Authors
-The class was taught and materials were compiled by Benson Liu & Ming Zhu! Special thanks to the Linux Users Group @ UCLA for providing a Linux server for the students to use!
+The class was taught and materials were compiled by Benson Liu & Ming Zhu! Special thanks to the [Linux Users Group @ UCLA](https://linux.ucla.edu/) for providing a Linux server for the students to use!
 
