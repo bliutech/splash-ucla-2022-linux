@@ -4,6 +4,8 @@
 
 Repository for "What the Heck is Linux?" class taught at [Splash @ UCLA 2022](https://splashatucla.learningu.org/). Lecture and practice challenges taught to high school students focusing on the Linux operating system, common commands, history, and practical applications!
 
+**Slides:** [https://docs.google.com/presentation/d/12eInWST8a1Ia2e0uJpRg9KXWb-StHMLuAvuLKZT1y78/edit?usp=sharing](https://docs.google.com/presentation/d/12eInWST8a1Ia2e0uJpRg9KXWb-StHMLuAvuLKZT1y78/edit?usp=sharing)
+
 ## Contents
  - Challenges
  - Resources
